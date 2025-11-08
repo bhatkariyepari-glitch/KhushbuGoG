@@ -43,3 +43,6 @@ contract ChainHaven {
         return balances[_user];
     }
 }
+// 
+End
+// 
